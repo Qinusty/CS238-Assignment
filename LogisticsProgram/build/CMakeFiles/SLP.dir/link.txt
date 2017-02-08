@@ -1,0 +1,1 @@
+/usr/bin/c++    -lboost_system -std=c++11 -lpthread -Wall   CMakeFiles/SLP.dir/main.cpp.o CMakeFiles/SLP.dir/YardManager.cpp.o CMakeFiles/SLP.dir/siding.cpp.o CMakeFiles/SLP.dir/Utils.cpp.o CMakeFiles/SLP.dir/vehicle.cpp.o CMakeFiles/SLP.dir/client.cpp.o  -o SLP 

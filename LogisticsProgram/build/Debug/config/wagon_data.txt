@@ -1,0 +1,10 @@
+11111, Arnolds Sands, Sand
+33333, Britiah Railways, Cable Drums
+22222, Cadbury Kit Kat, Chocolate
+55555, United Daries, Milk
+44444, UD, Milk
+66666, BR (Conflat), Transformer
+77777, GW, Coal
+88888, J.A.S Turner & Son, Limestone
+99999, BR, Railway spares
+10000, Loco services, no cargo
